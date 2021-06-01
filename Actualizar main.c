@@ -1,4 +1,4 @@
-int main 0
+int main ()
 {
   int i;
   for (i = 0; i < 32; i++)
